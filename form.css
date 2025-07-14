@@ -1,0 +1,12 @@
+.form {
+  background-color: rgb(219, 216, 14);
+  display: flex;
+  justify-content: center;  /* Alinha horizontalmente */
+  align-items: center;      /* Alinha verticalmente */
+  color: rgb(44, 39, 39);
+  border-radius: 8px;
+  margin: 1rem;
+  height: 70vh;
+  text-align: center;
+  font-size: 50px;
+}

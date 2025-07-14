@@ -1,0 +1,22 @@
+button {
+  background-color: #007bff;        /* azul moderno */
+  color: white;
+  padding: 0.7rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+button:hover {
+  background-color: #0056b3;        /* azul mais escuro ao passar o mouse */
+  transform: scale(1.03);           /* leve zoom ao passar o mouse */
+}
+
+button:active {
+  transform: scale(0.98);           /* efeito de clique */
+}
+

@@ -1,0 +1,8 @@
+.componentes-page-home {
+  height: 100%;
+  width: 100%;
+  background-color: #000;        /* Fundo preto */
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;              /* evita rolagem duplicada */
+}

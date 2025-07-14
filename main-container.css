@@ -1,0 +1,9 @@
+.main-container {
+  overflow-y: auto;
+  background-color: rgb(8, 12, 236);
+  width: 95%;
+  height: 75vh;
+  margin: 0 auto;
+  margin-left: 2rem;
+  border-radius: 8px;
+}
